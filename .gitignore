@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+.virtualenv/
+
+# PyCharm project files
+.idea/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+
+# Cache and distribution files
+*.egg-info/
+dist/
+build/
