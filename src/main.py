@@ -2,7 +2,8 @@ import src.ui as ui
 
 
 def main():
-    ui.run_loop()
+    main_window = ui.MainApplication()
+    main_window.mainloop()
 
-
-main()
+if __name__ == '__main__':
+    main()

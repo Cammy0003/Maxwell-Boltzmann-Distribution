@@ -3,6 +3,7 @@
 This is an application to allow users to calculate
 the probability of finding a molecule with a given speed
 in a gas at a particular temperature.
+
 $$f(v) = \Big(\frac{m}{2\pi k_B T}\Big)^{3/2} \cdot 4 \pi v^2 \exp\Big(-\frac{mv^2}{2k_B T}\Big)$$
 - $f(v)$ is probability density function.
 - $v$ is speed of molecule.
